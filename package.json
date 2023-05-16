@@ -15,5 +15,13 @@
     "socket.io": "^4.6.1"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Candee03/demochat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Candee03/demochat/issues"
+  },
+  "homepage": "https://github.com/Candee03/demochat#readme",
   "description": ""
 }
